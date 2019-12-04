@@ -4,14 +4,21 @@ Blog feature for Life@IITK
 Git Repository : https://github.com/yashvardhanraizada/Blogs.git
 
 Programme : Indian Institute of Technology Winter of Code 2019 (IITK WOC19)
+
 Project : To develop a Blog Feature for the ongoing Life@IITK project mentored by The Programming Club IIT Kanpur
+
 Developed by : Yash Vardhan Raizada
+
 Mentor : Aditya Gulati
 
 Technical Details :
+
 Base Language : Python 3.5.2
+
 Backend Server : Django 2.2.2
+
 Database : SQLite_3
+
 Frontend : React, HTML5, CSS, Javascript, Bootstrap etc.
 
 Steps to run the above repository on Localhost :
