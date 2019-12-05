@@ -22,18 +22,29 @@ Database : SQLite_3
 Frontend : React, HTML5, CSS, Javascript, Bootstrap etc.
 
 Steps to run the above repository on Localhost :
-1. Create a Virtual Environment (venv) supporting Python 3.5.2 or above.
-	admin:~ $ python3 -m venv venv
-2. Install Django 2.2.2 and Pillow in it.
-	admin:~ $ pip install Django==2.2.2
-	admin:~ $ pip install Pillow
-3. Clone the Repository in the same directory as that of Virtual Environment (venv).
-	admin:~ $ git clone <URL>
-4. Activate the Virtual Environment and go inside the Blogs directory (The cloned Repository).
-	admin:~ $ source venv/bin/activate
-	(venv)admin:~ $ cd Blogs
-5. Run the server on localhost.
-	(venv)admin:~Blogs $ python3 manage.py runserver
 
+1.Create a Virtual Environment (venv) supporting Python 3.5.2 or above.
+
+     admin:~ $ python3 -m venv venv
+
+2.Install Django 2.2.2 and Pillow in it. 
+  
+     admin:~ $ pip install Django==2.2.2
+     admin:~ $ pip install Pillow
+
+3.Clone the Repository in the same directory as that of Virtual Environment (venv). 
+  
+     admin:~ $ git clone <URL>
+
+4.Activate the Virtual Environment and go inside the Blogs directory (The cloned Repository). 
+    
+     admin:~ $ source venv/bin/activate 
+     
+     (venv)admin:~ $ cd Blogs
+
+5.Run the server on localhost. 
+    
+     (venv)admin:~Blogs $ python3 manage.py runserver
+  
 For more detailed instructions visit djangoproject.com
 
